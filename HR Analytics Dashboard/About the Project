@@ -1,0 +1,15 @@
+The data set had Total no of Employees, Attrition, Attrition Rate, Average age of Employees, Average Salary of Employees, Average working Years at office, Education of Employees, Departments, Job role and many more attributes.
+
+So I tried to create some meaningful relationships between these attributes.
+
+- Created a pie chart that shows percentage of Attrition based on Employee Education.
+
+- Created a bar graph that shows total Attrition based on Employee Average Age.
+
+- It is a bar graph that depicts total Attrition based on Employee Average Salary.
+
+- Created a line chart that shows Attrition based on Average Year of work done by employees in the company.
+
+- Created a bar graph that shows total Attrition based on Job title.
+
+- We can see the Attrition trend along the years.
